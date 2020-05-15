@@ -1,5 +1,5 @@
 .Movie{
-    background-color:white;
+    background-color:#3a3b3c; /* Light Mode: white */
     width:40%;
     display: flex;
     justify-content: space-between;

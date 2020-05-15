@@ -1,6 +1,7 @@
 #Movie List App 
+https://kim-misol.github.io/movie_app/
 
-Movie list with React.js and GraphQL
+Movie list (Dark Mode) with React.js and GraphQL
 
 SETTING
 npx create-react-app movie_list_app
